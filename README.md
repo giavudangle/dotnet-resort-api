@@ -1,5 +1,5 @@
 # dotnet-resort-api
-
+```
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
@@ -26,3 +26,4 @@
   </ItemGroup>
 
 </Project>
+```
